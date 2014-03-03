@@ -1,6 +1,6 @@
-# CoderDojo Ponce Springs Events 
+# CoderDojo McDonough Coding Sessions 
 
-Thanks for attending CoderDojo Ponce Springs -- **_a free and fun place where Henry County's kids learn how to code, 
+Thanks for attending CoderDojo McDonough -- **_a free and fun place where Henry County's kids learn how to code, 
 supported by mentors and parents!_** We hope you have a great time.
 
 # Event details
