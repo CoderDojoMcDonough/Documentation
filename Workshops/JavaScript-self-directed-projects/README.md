@@ -1,1 +1,0 @@
-# JavaScript self-directed projects
