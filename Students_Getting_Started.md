@@ -1,14 +1,13 @@
 # Students getting started and online learning guide
 
-As of August, 2013, we have had several regular learning "tracks":
+We are planning on having several regular learning "tracks":
 
-* Beginning HTML/CSS/JavaScript
-* Intermediate HTML/CSS/JavaScript
-* Intermediate to Advanced JavaScript with Fighting Robots
-* Intermediate to Advanced JavaScript with Learnstreet.com Projects
-* Beginning Python
-* Intermediate to Advanced Python with Learnstreet.com Projects
 * Beginning Scratch
+* Beginning HTML/CSS
+* Beginning JavaScript
+* Intermediate HTML/CSS/JavaScript
+* Intermediate to Advanced JavaScript with Minecraft mods
+* Hardware hacking with Raspberry Pi or Arduino and JavaScript.
 
 # **Free** online lessons and projects
 
@@ -38,24 +37,13 @@ Once you've done the Codecademy lessons, try to find some fun projects and more 
 
 ## Scratch
 
-* [How to download Scratch](https://github.com/versionone/CoderDojo-ScratchDemo/blob/master/README.md)
-* [Scratch Tutorial](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf)
-* [Free scratch video course](http://www.pluralsight.com/training/Courses/TableOfContents/learning-programming-scratch)
+Scratch is a great way to learn programming concepts, especially for children 7 - 10 who do not type well.  Scratch uses a graphical programming interface instead of typing.  Find out more and create an account at [http://scratch.mit.edu/](http://scratch.mit.edu/)
 
-You can also try the official CoderDojo Kata wiki, but sometimes those resources are not updated as often as they should be:
 
-[CoderDojo Coding Kata](http://kata.coderdojo.com/wiki/Main_Page)
-
-# Resources developed by CoderDojo Ponce Springs mentors!
-
-Some of the mentors in our dojo have been developing resources of their own for you.
-
-We're working on organizing the materials better for you, but you can find them all linked from the README.md files 
-inside the folders corresponding to previous events here: [CoderDojoPonceSprings.Events](https://github.com/JogoShugh/CoderDojoPonceSprings.Events)
 
 # More resources
 
-Code.org keeps a good "jumping off" point for online learning [right here](http://www.code.org/learn/codehs).
+Code.org keeps a good "jumping off" point for online learning [right here](http://www.code.org/learn).
 
 # And even more!
 
