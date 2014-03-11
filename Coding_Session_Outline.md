@@ -1,6 +1,7 @@
-# Thanks for attending CoderDojo McDonough -- **_a free and fun place
-where Henry County's kids learn how to code, supported by mentors and
-parents! **We hope you have a great time.
+# Thanks for attending CoderDojo McDonough!
+
+** CoderDojo McDonough is a free and fun place where Henry County's kids learn how to code, supported by mentors and
+parents! ** We hope you have a great time.
 
 Students, remember that the dojo is partly a classroom, but mostly a
 playground. Ultimately, you get to decide what programming languages,
@@ -11,11 +12,8 @@ We want you to feel free to pursue what is interesting to you. You can
 always ask a mentor about things that interest you, or any other questions you
 have.
 
-# Event details
 
-All events follow the basic agenda described below.
-
-# Key Times
+## Key Times
 
   * 1:00 PM: Volunteers begin setting up
   * 1:20 PM: Doors open - parents and students check in at the library
@@ -107,10 +105,8 @@ dojo in person.
 
 ### Highly recommended
 
-_We highly encourage you to utilize the free lessons and projects on
+We highly encourage you to utilize the free lessons and projects on
 **Codecademy** and **Learnstreet**, and other online resources.
-
-_
 
 # Have fun and learn a lot! Let us know how we're doing too!
 
