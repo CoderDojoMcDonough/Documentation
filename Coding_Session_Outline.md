@@ -1,7 +1,7 @@
 # Thanks for attending CoderDojo McDonough!
 
-** CoderDojo McDonough is a free and fun place where Henry County's kids learn how to code, supported by mentors and
-parents! ** We hope you have a great time.
+CoderDojo McDonough is a free and fun place where Henry County's kids learn how to code, supported by mentors and
+parents! We hope you have a great time.
 
 Students, remember that the dojo is partly a classroom, but mostly a
 playground. Ultimately, you get to decide what programming languages,
