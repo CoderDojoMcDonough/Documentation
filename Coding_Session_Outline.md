@@ -40,7 +40,9 @@ available for you.
     like to bring some other snacks to share, that would be great.  
   
 
-## Software to install before attending a session
+## Before attending a session
+
+Please create an account on either the [Codecademy](http://www.codecademy.com) or [Scratch](http://scratch.mit.edu) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other students should be registered for Codecademy.
 
 In case there are difficulties connecting to the internet at the
 library, please have the following software installed on the student's laptop
@@ -80,7 +82,7 @@ Mentors are encouraged to lead groups with no more than 8 students.  Having a li
 
 We encourage intermediate or advanced students to register using our
 Advanced Student Signup form at [http://www.coderdojohenry/AdvancedStudentSignup](http:
-//www.coderdojohenry/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP to our Meetup site for a session may not be able to attend the session they want.
+//www.coderdojohenry/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
 
 ## Learning resources before your first session or in between sessions
 
