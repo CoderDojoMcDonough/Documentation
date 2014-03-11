@@ -61,32 +61,28 @@ Parents and students check in at the library lobby. A mentor will sign you in an
 
 Students can join another session at any time.  Students 7 - 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and student to discuss and decided what session their student attends.  Talk to a mentor for advice on what session your student should attend.
 
-## Online RSVPs
+## Online registraton for sessions
 
 CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each sessions. For each session the parent should RSVP for their students. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
 
-Due to the high demand for our program, attendees who are not registered
-on our [Meetup.com](http://meetup.com/) site will not be allowed to sit in a room holding a session with mentors. Students who are not on our RSVP list will wait in a standby area. If the room is full
-to capacity with registered students, students not on the RSVP will be allowed
-to wait in the staging area, move to another dojo session with availability,
-or students can sit in other available library seating area and work on
-code learning websites. Mentors will do our best that all
-students in the library have access to a text editor or Scratch and
-ability to view learning material. If not enough registered students are present by 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
-
 Parents should only RSVP for the number of students participating and do
 not include parents or guardians. This will allow us to know how many students to allow based on our number of mentors.
+
+Due to the high level of student interest, attendees who are not registered
+on our [Meetup.com](http://meetup.com/) site may not be allowed to sit in a room holding a session with mentors. Students who are not on our RSVP list will wait in a waiting area. If the room is full
+to capacity with registered students, students not on the RSVP will be allowed
+to wait in the staging area, move to another dojo session with availability,
+or students can sit in other available seating in the library and work on code learning websites with minimal help from a mentor. Mentors will work to ensure that all students in the library at least have access to a text editor or Scratch and ability to view learning material.  If a session room is not full with registered students when the dojo begins around 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
+
+Mentors are encouraged to lead groups with no more than 8 students.  Having a limit on the number of students per mentor makes sure that students who register are able to receive adequate attention.
 
 ## Advanced Student Signup
 
 We encourage intermediate or advanced students to register using our
 Advanced Student Signup form at [http://www.coderdojohenry/AdvancedStudentSignup](http:
-//www.coderdojohenry/AdvancedStudentSignup). This will allow the coordinators to match students with mentors.
-Students who register as an Advanced Student but do not RSVP to our Meetup site for a session may not be able to attend the session they want.
+//www.coderdojohenry/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP to our Meetup site for a session may not be able to attend the session they want.
 
-##
-
-Learning resources before your first session or in between sessions
+## Learning resources before your first session or in between sessions
 
 Please see our **[Students getting started and online learning guide
 ](/learning-guide)**. In it, you'll find lots of great free resources
