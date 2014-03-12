@@ -1,3 +1,5 @@
+[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
+
 # Thanks for attending CoderDojo McDonough!
 
 CoderDojo McDonough is a free and fun place where Henry County's kids learn how to code, supported by mentors and
