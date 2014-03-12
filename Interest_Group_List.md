@@ -1,3 +1,5 @@
+This list will be used to determine options on the Advanced Student Registration form.
+
 HTML/CSS  
 JavaScript  
 Scratch  
