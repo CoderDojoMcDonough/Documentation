@@ -21,11 +21,11 @@ https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBack
 The McDonough Library is providing the background checks through their relationship with the Henry County Sheriff's office. The background check authorization form must be notarized and the hard copy returned to the library's administrative secretary LaDonna Poole. The Sheriff’s office also requires us to submit a copy of the person’s driver’s license and another form of official ID like a social security card, passport, birth certificate, or bank card. If anyone is concerned about identity theft issues, the library is governed by very strict privacy laws and information submitted will not be used for any other purpose, and documents will be shredded when no longer needed. 
 Other options for getting your background check authorization form notarized are to use a notary service at your bank or a UPS Store.
 
-Please either bring the ID card copies and notarized form to LaDonna at the McDonough library or mail the copies and notarized form to: 
-LaDonna Poole 
-Henry County Library System 
-1001 Florence McGarity Blvd. 
-McDonough, Georgia 30252 
+Please either bring the ID card copies and notarized form to LaDonna at the McDonough library or mail the copies and notarized form to:   
+LaDonna Poole   
+Henry County Library System   
+1001 Florence McGarity Blvd.   
+McDonough, Georgia 30252  
 
 ## Next Steps
 Once your background check is approved we will notify you.  We then recommend that you familiarize yourself with the [Mentor Guidebook](../Mentor_Guidebook.md) and the [Coding Session Outline](../Coding_Session_Outline.md).
