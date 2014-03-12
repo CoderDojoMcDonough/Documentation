@@ -71,7 +71,7 @@ Parents should only RSVP for the number of students participating and do
 not include parents or guardians. This will allow us to know how many students to allow based on our number of mentors.
 
 Due to the high level of student interest, attendees who are not registered
-on our [Meetup.com](http://meetup.com/) site may not be allowed to sit in a room holding a session with mentors. Students who are not on our RSVP list will wait in a waiting area. If the room is full
+on [our Meetup.com site](http://meetup.com/CoderDojoMcDonough) may not be allowed to sit in a room holding a session with mentors. Students who are not on our RSVP list will wait in a waiting area. If the room is full
 to capacity with registered students, students not on the RSVP will be allowed
 to wait in the staging area, move to another dojo session with availability,
 or students can sit in other available seating in the library and work on code learning websites with minimal help from a mentor. Mentors will work to ensure that all students in the library at least have access to a text editor or Scratch and ability to view learning material.  If a session room is not full with registered students when the dojo begins around 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
