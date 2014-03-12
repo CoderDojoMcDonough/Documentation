@@ -1,3 +1,5 @@
+[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
+
 # New Mentor Instructions
 
 CoderDojo McDonough is seeking developers of all skill levels who are interested in sharing their knowledge with local youth at CoderDojo McDonough. CoderDojo is a worldwide non-profit group founded to teach young people (ages 7-17) to code. Visit http://coderdojo.com for more information about the CoderDojo movement. 
@@ -27,3 +29,5 @@ McDonough, Georgia 30252
 
 ## Next Steps
 Once your background check is approved we will notify you.  We then recommend that you familiarize yourself with the [Mentor Guidebook](../Mentor_Guidebook.md) and the [Coding Session Outline](../Coding_Session_Outline.md).
+
+[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)

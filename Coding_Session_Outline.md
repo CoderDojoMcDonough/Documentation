@@ -116,4 +116,4 @@ We want you to have fun and learn lots of new things! We also love your
 feedback and want to know what kinds of ideas you have and what you want
 to learn, so let us know when you visit! Thanks!
 
-
+[Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
