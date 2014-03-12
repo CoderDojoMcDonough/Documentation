@@ -18,7 +18,7 @@ have.
 ## Key Times
 
   * 1:00 PM: Volunteers begin setting up
-  * 1:20 PM: Doors open - parents and students check in at the library
+  * 1:30 PM: Doors open - parents and students check in at the library
     lobby. 
   * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
     their group and coding begins.
