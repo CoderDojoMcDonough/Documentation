@@ -80,24 +80,22 @@ Mentors are encouraged to lead groups with no more than 8 students.  Having a li
 ## Advanced Student Signup
 
 We encourage intermediate or advanced students to register using our
-Advanced Student Signup form at [http://www.coderdojohenry/AdvancedStudentSignup](http:
-//www.coderdojohenry/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
+Advanced Student Signup form at [http://www.coderdojohenry.com/AdvancedStudentSignup](http:
+//www.coderdojohenry.com/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
 
 ## Learning resources before your first session or in between sessions
 
 Please see our **[Students getting started and online learning guide
-](/learning-guide)**. In it, you'll find lots of great free resources
+](http://www.coderdojohenry.com/learning-guide)**. In it, you'll find lots of great free resources
 that you
 should study and practice with in your own time on the following
 learning
 tracks:
 
-  * Beginning Scratch
-  * Beginning HTML/CSS
-  * Beginning JavaScript
-  * Intermediate HTML/CSS/JavaScript
-  * Intermediate to Advanced JavaScript with Minecraft mods
-  * Hardware hacking with Raspberry Pi or Arduino and JavaScript.
+  * Scratch
+  * HTML/CSS
+  * JavaScript
+ 
 
 You should start on one or more of these tracks so that you'll have good
 questions and ideas for what you'd like to learn more about when you
