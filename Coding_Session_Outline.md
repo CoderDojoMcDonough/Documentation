@@ -54,7 +54,8 @@ session.
 
 **JavaScript and HTML/CSS students:** install the free editor Brackets
 from [http://brackets.io/](http://brackets.io/) or
-another popular code editor like Sublime Text 2.
+another popular code editor like Sublime Text 2. (*NOTE: While Sublime Text 2 offers an extended evaluation period during which it is free to use, it is *not* free software.*)
+
 
 
 ## When you arrive

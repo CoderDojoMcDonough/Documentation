@@ -11,8 +11,7 @@ We are planning on having several regular learning "tracks":
 
 # **Free** online lessons and projects
 
-Students, you should complete the resources below at home to strengthen you skills. **New students, you should 
-start on these even before you attend your first dojo, to see what inspires you and what you want to get
+Students, you should complete the resources below at home to strengthen you skills. **New students, you should start on these even before you attend your first dojo, to see what inspires you and what you want to get
 help with.**
 
 ## HTML/CSS/JavaScript tracks:
