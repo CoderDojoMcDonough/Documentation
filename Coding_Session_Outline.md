@@ -65,7 +65,7 @@ Students can join another session at any time.  Students 7 - 12 who are complete
 
 ## Online registraton for sessions
 
-CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each sessions. For each session the parent should RSVP for their students. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
+CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each session. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
 
 Parents should only RSVP for the number of students participating and do
 not include parents or guardians. This will allow us to know how many students to allow based on our number of mentors.
