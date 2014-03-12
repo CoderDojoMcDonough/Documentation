@@ -42,7 +42,7 @@ available for you.
 
 ## Before attending a session
 
-See our [Web Browsers](web_browsers.md) page for instructions on updating your web browser.
+See our [Web Browsers](web_browsers.md) page for suggestions regarding the web browser used during coding sessions.
 
 Please create an account on either the [Codecademy](http://www.codecademy.com) or [Scratch](http://scratch.mit.edu) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other students should be registered for Codecademy.
 
