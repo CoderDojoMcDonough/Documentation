@@ -1,8 +1,3 @@
-Documentation index
+Documentation and policies used by CoderDojo McDonough
 
-[Coding Session Outline](Coding_Session_Outline.md)
-
-[New Mentor Instructions](New_Mentor_Instructions.md)
-
-[Mentor Guidebook](Mentor_Guidebook.md)
 
