@@ -49,7 +49,7 @@ library, please have the following software installed on the student's laptop
 before they come. Thumb drives will be available with the necessary software if you are unable to install the software before the
 session.
 
-**Scratch students: **install Scratch from
+**Scratch students:** install Scratch from
 [http://scratch.mit.edu](http://scratch.mit.edu)
 
 **JavaScript and HTML/CSS students:** install the free editor Brackets
