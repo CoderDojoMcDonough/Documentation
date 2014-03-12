@@ -12,6 +12,7 @@ Coding sessions are held at the McDonough Public Library on the second Sunday of
 ## Mentor Signup Form
 New mentors please complete our [Mentor Signup Form](http://www.coderdojohenry.com/MentorSignup)
 
+
 ## Background Check
 The background check is a hassle, but we hope you'll take this last step!   The background check authorization form will need to be received by the library at least two weeks before you plan to attend your first session.
 
