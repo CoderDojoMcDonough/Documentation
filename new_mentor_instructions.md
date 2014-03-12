@@ -28,6 +28,6 @@ Henry County Library System
 McDonough, Georgia 30252  
 
 ## Next Steps
-Once your background check is approved we will notify you.  We then recommend that you familiarize yourself with the [Mentor Guidebook](../Mentor_Guidebook.md) and the [Coding Session Outline](../Coding_Session_Outline.md).
+Once your background check is approved we will notify you.  We then recommend that you familiarize yourself with the [Mentor Guidebook](Mentor_Guidebook.md) and the [Coding Session Outline](Coding_Session_Outline.md).
 
 [Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
