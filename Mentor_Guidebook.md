@@ -1,5 +1,6 @@
-# Mentor Guidebook
-
+---
+title: Mentor Guidebook
+---
 
 ## Groups
 Mentors are encouraged to lead groups with no more than 8 students.  The maximum number of students per mentor is 10 students for one mentor.  Mentors can help any student, but try to have a certain number of students who you make sure are not ignored.  We want to make sure we help all students.  Mentors will try to make sure all students in the library have access to a code editor and the ability to view learning material.
