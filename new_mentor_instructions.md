@@ -2,7 +2,7 @@
 
 # New Mentor Instructions
 
-CoderDojo McDonough is seeking developers of all skill levels who are interested in sharing their knowledge with local youth at CoderDojo McDonough. CoderDojo is a worldwide non-profit group founded to teach young people (ages 7-17) to code. Visit [http://coderdojo.com](http://coderdojo.com) for more information about the CoderDojo movement. 
+CoderDojo McDonough is seeking developers of all skill levels who are interested in sharing their knowledge with local youth at CoderDojo McDonough. The time commitment required is very low since the monthly sessions only last a couple hours and little preparation is necessary on your part because we will be using resources like codecademy.com.  CoderDojo is a worldwide non-profit group founded to teach young people (ages 7-17) to code. Visit [http://coderdojo.com](http://coderdojo.com) for more information about the CoderDojo movement. 
 
 Developers with any type of experience or even non-developers who can google and type well are welcome to serve as mentors.  
 
