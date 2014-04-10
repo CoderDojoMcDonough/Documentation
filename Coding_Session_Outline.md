@@ -66,6 +66,27 @@ Parents and students check in at the library lobby. A mentor will sign you in an
 
 Students can join another session at any time.  Students 7 - 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and student to discuss and decided what session their student attends.  Talk to a mentor for advice on what session your student should attend.
 
+## During the coding session 
+
+Students will use online learning resources to learn at their own pace with help from fellow students and mentors.  Sessions will usually not include a lecture or instruction from a single mentor to all students in the room.  Within each room there will be students with varying skill levels present.  Each mentor will help and encourage a group of students.  Mentors will try to group students together based on the student's experience level.  More experienced students are also welcome to assist more novice students.  
+
+**Team up with other students**  
+Mentors will encourage students to work together in pairs or small teams. Both students will be writing coding individually but asking each other questions and tackling problems together.  Intermediate students can also practice pair programming techniques.
+
+**Learning resources used during coding sessions or in between sessions**  
+Please see our **[Learning Guide](http://www.coderdojohenry.com/learning-guide)** for resources used during the coding sessions. You should also study and practice with these great free resources on your own time.
+
+We have several regular learning areas:
+
+  * Scratch
+  * HTML/CSS
+  * JavaScript
+ 
+You should start on one or more of these tracks so that you'll have good
+questions and ideas for what you'd like to learn more about when you
+visit the dojo in person.
+
+
 ## Online registraton for sessions
 
 CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each session. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
@@ -85,24 +106,6 @@ Mentors are encouraged to lead groups with no more than 8 students.  Having a li
 We encourage intermediate or advanced students to register using our
 Advanced Student Signup form at [http://www.coderdojohenry.com/AdvancedStudentSignup](http://www.coderdojohenry.com/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
 
-## Learning resources before your first session or in between sessions
-
-Please see our **[Students getting started and online learning guide
-](http://www.coderdojohenry.com/learning-guide)**. In it, you'll find lots of great free resources
-that you
-should study and practice with in your own time on the following
-learning
-tracks:
-
-  * Scratch
-  * HTML/CSS
-  * JavaScript
- 
-
-You should start on one or more of these tracks so that you'll have good
-questions and ideas for what you'd like to learn more about when you
-visit the
-dojo in person.
 
 ### Highly recommended
 
