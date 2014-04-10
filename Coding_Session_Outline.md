@@ -22,7 +22,7 @@ have.
     lobby. 
   * 2:00 PM: Welcome and kickoff -- Mentors will describe the goals for
     their group and coding begins.
-  * 4:15 PM: Sessions wind up -- Mentors seek feedback from the students
+  * 4:15 PM: Sessions wind down -- Mentors seek feedback from the students
     about the session and ask them what they want to try next time
   * 4:30 PM: Volunteers begin shutting down
 
