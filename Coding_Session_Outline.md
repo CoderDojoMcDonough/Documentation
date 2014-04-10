@@ -46,17 +46,22 @@ See our [Web Browsers](web_browsers.md) page for suggestions regarding the web b
 
 Please create an account on either the [Codecademy](http://www.codecademy.com) or [Scratch](http://scratch.mit.edu) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other students should be registered for Codecademy.
 
+### Downloadable resources
 In case there are difficulties connecting to the internet at the
-library, please have the following software installed on the student's laptop
-before they come. Thumb drives will be available with the necessary software if you are unable to install the software before the
-session.
+library, we will have 4 USB thumb drives available with the following resources for Mac and PC laptops.  Please feel free to download these resources yourself to speed the process if we have internet access problems during the coding session.
 
-**Scratch students:** install Scratch from
-[http://scratch.mit.edu](http://scratch.mit.edu)
+**Scratch**  
+Download the Scratch 2 Offline Editor.  Also download the 3 file links at the bottom in the "Starter Projects and Support Materials" for Starter Projects, the Getting Started Guide, and Scratch Cards.  
+<http://scratch.mit.edu/scratch2download/>
 
-**JavaScript and HTML/CSS students:** install the free editor Brackets
-from [http://brackets.io/](http://brackets.io/) or
-another popular code editor like Sublime Text 2. (*NOTE: While Sublime Text 2 offers an extended evaluation period during which it is free to use, it is *not* free software.*)
+Look through this list of projects in the Beginners, Intermediate, or Advanced track and download any projects you are interested in.  To download the Advanced track pages, right click on the link and choose the option to "Save Link As…".
+<http://kata.coderdojo.com/wiki/ScratchTastic>
+
+
+**HTML/CSS & JavaScript**  
+Brackets - free open source code editor - <http://brackets.io/>  
+W3Schools - download the W3Schools website containing tutorials and reference material -  <http://www.techinfopark.net/2014/01/w3schools-offline-latest-version-free-download.html>  
+Download an offline version of the CSS Diner game - <https://github.com/flukeout/restaurant/archive/master.zip>
 
 
 
