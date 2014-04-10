@@ -68,7 +68,7 @@ Students can join another session at any time.  Students 7 - 12 who are complete
 
 ## During the coding session 
 
-Students will use online learning resources to learn at their own pace with help from fellow students and mentors.  Sessions will usually not include a lecture or instruction from a single mentor to all students in the room.  Within each room there will be students with varying skill levels present.  Each mentor will help and encourage a group of students.  Mentors will try to group students together based on the student's experience level.  More experienced students are also welcome to assist more novice students.  
+Students will use online learning resources to learn at their own pace with help from fellow students and mentors.  Coding sessions will usually not include a lecture or instruction from a single mentor to all students in the room.  Within each room there will be students with varying experience levels present.  Each mentor will help and encourage a group of students.  Mentors will try to group students together based on the student's experience level.  More experienced students are also welcome to assist beginner students.  
 
 **Team up with other students**  
 Mentors will encourage students to work together in pairs or small teams. Both students will be writing coding individually but asking each other questions and tackling problems together.  Intermediate students can also practice pair programming techniques.
