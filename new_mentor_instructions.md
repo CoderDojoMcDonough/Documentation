@@ -9,12 +9,9 @@ Developers with any type of experience or even non-developers who can google and
 Coding sessions are held at the McDonough Public Library on the second Sunday of the month. The number of students allowed to participate each month will be based on mentor participation, so we really need your help to make CoderDojo McDonough a success!  
 
 
-## Mentor Signup Form
-New mentors please complete our [Mentor Signup Form](https://docs.google.com/forms/d/1w2hYEt8bc-hVj4FM14ZAVDLq41WPmRewpAsJqVrC--A/viewform)
-
 
 ## Background Check
-The background check is a hassle, but we hope you'll take this last step!   The background check authorization form will need to be received by the library at least two weeks before you plan to attend your first session.
+The background check authorization form will need to be received by the library at least two weeks before you plan to attend your first session.
 
 Here is a link to download the background check authorization form: 
 [https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf)
@@ -30,6 +27,9 @@ Please either bring the ID card copies and notarized form to LaDonna at the McDo
     McDonough, Georgia 30252  
 
 ## Next Steps
+
+Please complete our [Mentor Signup Form](https://docs.google.com/forms/d/1w2hYEt8bc-hVj4FM14ZAVDLq41WPmRewpAsJqVrC--A/viewform) before or after you have submitted your background check authorization form to the library.
+
 Once your background check is approved we will notify you.  We then recommend that you familiarize yourself with the [Mentor Guidebook](Mentor_Guidebook.md) and the [Coding Session Outline](Coding_Session_Outline.md).
 
 [Back to CoderDojo McDonough website](http://www.coderdojohenry.com)
