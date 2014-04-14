@@ -106,16 +106,10 @@ or students can sit in another area of the library and work on code learning web
 
 Mentors are encouraged to lead groups with no more than 8 students.  Having a limit on the number of students per mentor makes sure that students who register are able to receive adequate attention.
 
-## Advanced Student Signup
+## Student Profile Form
 
-We encourage intermediate or advanced students to register using our
-Advanced Student Signup form at [http://www.coderdojohenry.com/AdvancedStudentSignup](http://www.coderdojohenry.com/AdvancedStudentSignup).  Intermediate students are students who understand the basics of HTML/CSS, JavaScript, Scratch, or another programming language. Having more details about our intermediate students will allow the coordinators to match students with mentors.  All students must still RSVP for each session.  Students who register using our Advanced Student Signup form but do not RSVP for a session using our Meetup site may not be able to attend the session they want.
+We encourage all students to register using our CoderDojo Student Profile form at <http://www.coderdojohenry.com/StudentProfileForm>.  Having more details about our intermediate students will allow coordinators to match students with team members and mentors. All students must still RSVP for each session.  The Advanced Student Signup form has been renamed to the CoderDojo Student Profile, so if your student has already completed the Advanced Student Signup form they do not need to complete the form again. 
 
-
-### Highly recommended
-
-We highly encourage you to utilize the free lessons and projects on
-**Codecademy** and **Learnstreet**, and other online resources.
 
 # Have fun and learn a lot! Let us know how we're doing too!
 
