@@ -108,7 +108,7 @@ Mentors are encouraged to lead groups with no more than 8 students.  Having a li
 
 ## Student Profile Form
 
-We encourage all students to register using our CoderDojo Student Profile form at <http://www.coderdojohenry.com/StudentProfileForm>.  Having more details about our intermediate students will allow coordinators to match students with team members and mentors. All students must still RSVP for each session.  The Advanced Student Signup form has been renamed to the CoderDojo Student Profile, so if your student has already completed the Advanced Student Signup form they do not need to complete the form again. 
+We encourage all students to register using our CoderDojo Student Profile form at <http://www.coderdojohenry.com/StudentProfileForm>.  Student Profiles allow coordinators to match students with team members and mentors. All students must still RSVP for each session.  The Advanced Student Signup form has been renamed to the CoderDojo Student Profile, so if your student has already completed the Advanced Student Signup form they do not need to complete the form again. 
 
 
 # Have fun and learn a lot! Let us know how we're doing too!
