@@ -11,7 +11,7 @@ Coding sessions are held at the McDonough Public Library on the second Sunday of
 
 
 ## Background Check
-The background check authorization form will need to be received by the library at least two weeks before you plan to attend your first session.
+All mentors must be professionally background checked as required by CoderDojo and library policies. The background check authorization form will need to be received by the library at least two weeks before you plan to attend your first session.
 
 Here is a link to download the background check authorization form: 
 [https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf)
