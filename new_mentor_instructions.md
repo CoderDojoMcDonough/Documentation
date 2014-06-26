@@ -17,7 +17,8 @@ Here is a link to download the background check authorization form:
 [https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough-PermissionforBackgroundCheck.pdf)
 
 The McDonough Library is providing the background checks through their relationship with the Henry County Sheriff's office. The background check authorization form must be notarized and the hard copy returned to the library's administrative secretary LaDonna Poole. The Sheriff’s office also requires us to submit a copy of the person’s driver’s license and another form of official ID like a social security card, passport, birth certificate, or bank card. If anyone is concerned about identity theft issues, the library is governed by very strict privacy laws and information submitted will not be used for any other purpose, and documents will be shredded when no longer needed. 
-Other options for getting your background check authorization form notarized are to use a notary service at your bank or a UPS Store.
+
+The McDonough library offers a free notary service Monday thru Thursday between 9-5pm.  If you would like to use the library's notary, call before coming to make sure LaDonna is available. The main number here is 678-432-5353, press 1 for library administration. Other easy options for getting your background check authorization form notarized are to use a notary service at your bank or a UPS Store.  The UPS Store offers notary services for $3 and they are open until 7pm during the week and until 5pm on Saturdays.
 
 Please either bring the ID card copies and notarized form to LaDonna at the McDonough library or mail the copies and notarized form to:
 
