@@ -3,16 +3,16 @@
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
 
 ModderDojo Athenry projects  
-[http://cdathenry.wordpress.com/category/modderdojo/page/3/]
+http://cdathenry.wordpress.com/category/modderdojo/page/3/
 
 Bukkit API reference docs  
-[http://jd.bukkit.org/dev/apidocs/]
+http://jd.bukkit.org/dev/apidocs/
 
 Minecraft Data Values  
-[http://minecraft.gamepedia.com/Data_values]
+http://minecraft.gamepedia.com/Data_values
 
 Minecraft server properties file  
-[http://minecraft.gamepedia.com/Server.properties]
+http://minecraft.gamepedia.com/Server.properties
 
 
 ## Set time and storm
