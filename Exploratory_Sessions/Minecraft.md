@@ -20,10 +20,11 @@ http://minecraft.gamepedia.com/Server.properties
 I find it helpful to switch the time of day when it gets dark or turn off a storm...
 
 change time of day to daytime:  
+self.location.world.setTime(6000);  
 https://github.com/walterhiggins/ScriptCraft/blob/master/docs/API-Reference.md#example-create-a-sign-which-changes-the-time-of-day
-self.location.world.setTime(6000);
 
 set storm:  
+server.worlds.get(0).setStorm(false);  
 https://github.com/walterhiggins/ScriptCraft/blob/master/docs/API-Reference.md#example-5
 
 ## Ideas for mods
