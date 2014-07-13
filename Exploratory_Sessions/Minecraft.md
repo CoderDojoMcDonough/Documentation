@@ -2,7 +2,7 @@
 
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
 
-ModderDojo Athenry projects
+ModderDojo Athenry projects  
 [http://cdathenry.wordpress.com/category/modderdojo/page/3/]
 
 Bukkit API reference docs  
@@ -28,8 +28,8 @@ https://github.com/walterhiggins/ScriptCraft/blob/master/docs/API-Reference.md#e
 
 ## Ideas for mods
 
-Conway's Game of Life
+Conway's Game of Life  
 http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
-Maze building
+Maze building  
 http://www.mazeworks.com/mazegen/mazetut/
