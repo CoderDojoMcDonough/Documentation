@@ -1,5 +1,9 @@
 ##Quick installation instructions  
-CoderDojo students with Windows laptops can use these instructions to streamline the installation of ScriptCraft:
+
+Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person's Guide to Programming in Minecraft]
+(https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
+
+We have created a zip file to help streamline the ScriptCraft installation process.  CoderDojo students with Windows laptops can use these instructions to install the CraftBukkit server and ScriptCraft.  The zip file currently contains the CraftBukkit server version 1.7.9-R0.2 and the ScriptCraft library dated 4/23/2014. 
 
 1.  [Click here](http://coderdojomcdonough.github.io/assets/scriptcraft.zip) to download a zip file containing the CraftBukkit server and ScriptCraft.  Unzip the file when the download is complete.
 
@@ -15,7 +19,5 @@ CoderDojo students with Windows laptops can use these instructions to streamline
 5.  Follow the ["First Steps" section on the Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#first-steps) to connect the CraftBukkit server you just finished setting up with your Minecraft game. 
 
 
-Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person's Guide to Programming in Minecraft]
-(https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
 
 Once you have successfully installed ScriptCraft, we recommend that you continue reading through The Young Person's Guide to Programming in Minecraft to learn how to use ScriptCraft.
