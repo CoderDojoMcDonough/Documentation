@@ -1,4 +1,4 @@
-##Quick installation instructions  
+##Quick installation instructions for ScriptCraft
 
 Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person's Guide to Programming in Minecraft]
 (https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
