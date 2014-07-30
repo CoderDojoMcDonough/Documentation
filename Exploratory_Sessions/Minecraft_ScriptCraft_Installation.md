@@ -1,9 +1,9 @@
 ##Quick installation instructions  
 CoderDojo students with Windows laptops can use these instructions to streamline the installation of ScriptCraft:
 
-1) Download this zip file containing the CraftBukkit server and ScriptCraft: http://coderdojomcdonough.github.io/assets/scriptcraft.zip .  Unzip this file after you have downloaded it.
+1) Download this zip file containing the CraftBukkit server and ScriptCraft: http://coderdojomcdonough.github.io/assets/scriptcraft.zip .  Unzip the file when the download is complete.
 
-2) Move unzipped folder and create desktop shortcut.  This step is optional.  Use File Explorer on Windows 8 (or Windows Explorer on Windows 7 and below) to move the unzipped ScriptCraft folder to the C drive of your computer or some other location on your disk.  You can also make a shortcut to the start.bat file on your Desktop so you can easily start the CraftBukkit server in the future.
+2) Move the unzipped folder and create a desktop shortcut.  This step is optional.  Use File Explorer on Windows 8 (or Windows Explorer on Windows 7 and below) to move the unzipped ScriptCraft folder to the C drive of your computer or some other location on your disk.  You can also make a shortcut to the start.bat file on your Desktop so you can easily start the CraftBukkit server in the future.
 
 3) Start the CraftBukkit server.  Double-click on the file named "start.bat".  A command prompt window should open.  
   * If you see a message "Loading libraries, please wait..." followed by dozens of lines of more text saying things like "Preparing spawn area", the CraftBukkit server is running properly so you can proceed to step the next step.
