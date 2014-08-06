@@ -8,7 +8,7 @@ Please make your best attmempt to install the CraftBukkit server on your laptop 
 
 Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation) - This guide contains details on how to start using JavaScript with Minecraft. We’ve tested Minecraft version 1.7.10 along with CraftBukkit version 1.7.10-R0.2. 
 
-[Click here](Minecraft_ScriptCraft_Installation.md#run-craftbukkit-without-an-internet-connection) for instructions for running the CraftBukkit server without an internet connection.
+[Click here](Minecraft_ScriptCraft_Installation.md#run-craftbukkit-without-an-internet-connection) for instructions on running the CraftBukkit server without an internet connection.
 
 ## Documentation links
 
