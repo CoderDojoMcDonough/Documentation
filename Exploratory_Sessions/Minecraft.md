@@ -10,6 +10,8 @@ Full instructions for installing and configuring ScriptCraft can be found in the
 
 [Click here](Minecraft_ScriptCraft_Installation.md#run-craftbukkit-without-an-internet-connection) for instructions on running the CraftBukkit server without an internet connection.
 
+If you see the error message "You don't have scriptcraft.evaluate permission” when using ScriptCraft in Minecraft, see step 4 in our streamlined [installation instructions](Minecraft_ScriptCraft_Installation.md).
+
 ## Documentation links
 
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
