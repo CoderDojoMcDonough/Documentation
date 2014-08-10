@@ -84,8 +84,10 @@ Please see our **[Learning Guide](http://www.coderdojohenry.com/learning-guide)*
 We have several regular learning areas:
 
   * Scratch
-  * HTML/CSS
-  * JavaScript
+  * Web Development with HTML, CSS, and JavaScript
+  * Mobile Development for Android with App Inventor
+  * Explore Electronics with Arduino
+  * Minecraft modding with JavaScript
  
 You should start on one or more of these tracks so that you'll have good
 questions and ideas for what you'd like to learn more about when you
