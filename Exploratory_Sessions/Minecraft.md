@@ -30,6 +30,8 @@ http://minecraft.gamepedia.com/Data_values
 Minecraft server properties file  
 http://minecraft.gamepedia.com/Server.properties
 
+## Example ScriptCraft plugins
+https://github.com/CoderDojoMcDonough/MinecraftScripts
 
 ## Set time and storm
 
