@@ -16,6 +16,8 @@ If you see the error message "You don't have scriptcraft.evaluate permission” 
 
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
 
+[The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation)
+
 ModderDojo Athenry projects  
 http://cdathenry.wordpress.com/category/modderdojo/page/3/
 
