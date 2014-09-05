@@ -2,7 +2,7 @@
 
 Students interested in our Minecraft modding with JavaScript session should have a laptop with Minecraft installed and a Minecraft account.  Some students have successfully used a 30-day demo Minecraft account, but we encourage students to purchase a Minecraft license.  
 
-Please make your best attmempt to install the CraftBukkit server on your laptop before attending your first session.  There are mentors available to help if you're unable to get things running, but another mentor will be guiding students through scripting in Minecraft even if  some students are not able to get the CraftBukkit server running and connected to Minecraft.
+Please make your best attempt to install the CraftBukkit server on your laptop before attending your first session.  There are mentors available to help if you're unable to get things running, but another mentor will be guiding students through scripting in Minecraft even if  some students are not able to get the CraftBukkit server running and connected to Minecraft.
 
 [Click here](Minecraft_ScriptCraft_Installation.md) to view our streamlined installation instructions for Windows users.  These steps were created using the installation instructions found in the Young Person's Guide link below, but they save parents or students from having to download separate jar files and create their own start.bat file.
 
