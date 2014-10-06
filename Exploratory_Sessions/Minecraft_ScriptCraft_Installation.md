@@ -3,6 +3,8 @@
 Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person's Guide to Programming in Minecraft]
 (https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
 
+*Please note that version 1.8 of Minecraft is not supported by ScriptCraft.*  Sorry to say we won’t be able to use the CraftBukkit server with the latest 1.8 version of Minecraft.  In September one of the CraftBukkit contributors issued a complaint that caused the CraftBukkit team (most of whom have been hired by Mojang) to disband.  Hopefully this will motivate Minecraft to release an official scriptable server in the future.  Until then we’ll keep using the CraftBukkit server that works good with Minecraft up to version 1.7.10.  Students who are running version 1.8 should create a new profile in the Minecraft launcher to run version 1.7.10 during our coding sessions.
+
 We have created a zip file to help streamline the ScriptCraft installation process.  CoderDojo students with Windows laptops can use these instructions to install the CraftBukkit server and ScriptCraft.  The zip file currently contains the CraftBukkit server version 1.7.9-R0.2 and the ScriptCraft library dated 4/23/2014. 
 
 1.  [Click here](http://coderdojomcdonough.github.io/assets/scriptcraft.zip) to download a zip file containing the CraftBukkit server and ScriptCraft.  Unzip the file when the download is complete.
