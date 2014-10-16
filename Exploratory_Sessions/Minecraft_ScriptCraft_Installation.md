@@ -1,8 +1,5 @@
 ##Quick installation instructions for ScriptCraft
 
-Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person's Guide to Programming in Minecraft]
-(https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
-
 *Please note that Minecraft version 1.8 is not supported by ScriptCraft.*  Sorry to say we won’t be able to use the CraftBukkit server with the latest 1.8 version of Minecraft.  In September one of the CraftBukkit contributors issued a complaint that caused the CraftBukkit team (most of whom have been hired by Mojang) to disband.  Hopefully this will motivate Minecraft to release an official scriptable server in the future.  Until then we’ll keep using the CraftBukkit server that works good with Minecraft up to version 1.7.10.  Students who are running version 1.8 should create a new profile in the Minecraft launcher to run version 1.7.10 during our coding sessions.
 
 We have created a zip file to help streamline the ScriptCraft installation process.  CoderDojo students with Windows laptops can use these instructions to install the CraftBukkit server and ScriptCraft.  The zip file currently contains the CraftBukkit server version 1.7.9-R0.2 and the ScriptCraft library dated 4/23/2014. 
@@ -22,7 +19,9 @@ We have created a zip file to help streamline the ScriptCraft installation proce
 
 
 
-Once you have successfully installed ScriptCraft, we recommend that you continue reading through The Young Person's Guide to Programming in Minecraft to learn how to use ScriptCraft.
+Once you have successfully installed ScriptCraft, we recommend that you continue reading through [The Young Person's Guide to Programming in Minecraft]
+(https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
+
 
 ##Run CraftBukkit without an internet connection
 The CraftBukkit server will attempt to authenticate users using your internet connection.  In order to start the CraftBukkit server properly when you are not connected to the internet, stop the CraftBukkit server and change the first line of the start.bat file from:  
