@@ -1,3 +1,6 @@
+## JavaScript fundamentals
+We strongly recommend that students in our Minecraft session learn JavaScript fundamentals using [Codecademy](http://www.codecademy.com/en/tracks/javascript) or other JavaScript learning resources.
+
 ## Installation
 
 Students interested in our Minecraft modding with JavaScript session should have a laptop with Minecraft installed and a Minecraft account.  Some students have successfully used a 30-day demo Minecraft account, but we encourage students to purchase a Minecraft license.  
