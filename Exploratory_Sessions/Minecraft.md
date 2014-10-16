@@ -1,5 +1,5 @@
 ## JavaScript fundamentals
-We strongly recommend that students in our Minecraft session learn JavaScript fundamentals using [Codecademy](http://www.codecademy.com/en/tracks/javascript) or other JavaScript learning resources.  During our Minecraft modding sessions we will try to help reinforce a basic understanding of JavaScript, but students who have worked with JavaScript on their own (or in our Web Development sessions at CoderDojo) will be able to pick up Minecraft modding with JavaScript faster.
+We strongly recommend that students in our Minecraft session learn JavaScript fundamentals using [Codecademy](http://www.codecademy.com/en/tracks/javascript).  The Web Development sessions at CoderDojo McDonough are a great way to get help from a mentor while learning the basics of JavaScript.  During our Minecraft modding sessions we will try to help reinforce a basic understanding of JavaScript, but students who have worked with JavaScript on their own will be able to pick up Minecraft modding with JavaScript faster.
 
 ## Installation
 
