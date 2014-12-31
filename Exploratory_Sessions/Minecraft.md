@@ -1,9 +1,9 @@
-## JavaScript fundamentals
+## Minecraft Modding with JavaScript
 We strongly recommend that students in our Minecraft session learn JavaScript fundamentals using [Codecademy](http://www.codecademy.com/en/tracks/javascript).  The Web Development sessions at CoderDojo McDonough are a great way to get help from a mentor while learning the basics of JavaScript.  During our Minecraft modding sessions we will try to help reinforce a basic understanding of JavaScript, but students who have worked with JavaScript on their own will be able to pick up Minecraft modding with JavaScript faster.
 
 ## Installation
 
-Students interested in our Minecraft modding with JavaScript session should have a laptop with Minecraft installed and a Minecraft account.  Some students have successfully used a 30-day demo Minecraft account, but we encourage students to purchase a Minecraft license.  
+Students interested in our Minecraft modding with JavaScript session should have a laptop with Minecraft installed and a Minecraft account.  The free 30-day demo Minecraft account cannot be used for this session.  
 
 Please make your best attempt to install the CraftBukkit server on your laptop before attending your first session.  There are mentors available to help if you're unable to get things running, but another mentor will be guiding students through scripting in Minecraft even if  some students are not able to get the CraftBukkit server running and connected to Minecraft.
 
