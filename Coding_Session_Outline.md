@@ -44,24 +44,24 @@ available for you.
 
 See our [Web Browsers](web_browsers.md) page for suggestions regarding the web browser used during coding sessions.
 
-Please create an account on either the [Codecademy](http://www.codecademy.com) or [Scratch](http://scratch.mit.edu) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Scratch.  Other students should be registered for Codecademy.
+Please create an account on either the [Codecademy](http://www.codecademy.com) or [Code Studio](https://learn.code.org) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Code Studio.  Other students should be registered for Codecademy.
 
 ### Downloadable resources
 In case there are difficulties connecting to the internet at the
 library, we will have 4 USB thumb drives available with the following resources for Mac and PC laptops.  Please feel free to download these resources yourself to speed the process if we have internet access problems during the coding session.
 
-**Scratch**  
-Download the Scratch 2 Offline Editor.  Also download the 3 file links at the bottom in the "Starter Projects and Support Materials" for Starter Projects, the Getting Started Guide, and Scratch Cards.  
-<http://scratch.mit.edu/scratch2download/>
+**Code Studio**  
+ Code Studio is a new drag and drop learning tool from Code.org that offers a more guided step-by-step way to learn to code.  Feel free to work through the "Hour of Code" and "Beginner" courses at https://learn.code.org before attending the sessions.  Mentors at our sessions can help you through any difficult parts or help explain concepts covered in Code Studio.
 
-Look through this list of projects in the Beginners, Intermediate, or Advanced track and download any projects you are interested in.  To download the Advanced track pages, right click on the link and choose the option to "Save Link As…".
-<http://kata.coderdojo.com/wiki/ScratchTastic>
+**Explore Electronics with Arduino**
+Only a laptop is required for our Arduiono session.  We have 6 Arduino kits available for our Explore Electronics with Arduino session. 
 
+**Music Programming with Ruby and Sonic Pi**
+Students wishing to participate in this session should bring a pair of headphones to make experimentation easier.   Only a laptop is required for this session... we will not be using the actual Raspberry Pi devices.  Learn more about Sonic Pi at http://sonic-pi.net. Interested students are encouraged to learn about Ruby using either the quick 15 minute introduction at http://tryruby.org/ or a more full Ruby tutorial such as http://codecademy.com/tracks/ruby
 
-**HTML/CSS & JavaScript**  
-Brackets - free open source code editor - <http://brackets.io/>  
-W3Schools - download the W3Schools website containing tutorials and reference material -  <http://www.techinfopark.net/2014/01/w3schools-offline-latest-version-free-download.html>  
-Download an offline version of the CSS Diner game - <https://github.com/flukeout/restaurant/archive/master.zip>
+**Minecraft Modding**
+Students who want to participate in our Minecraft Modding session should have a Minecraft account and Minecraft installed on their laptop.  Library provided laptops cannot be used for the Minecraft Modding session. 
+
 
 
 
@@ -69,7 +69,7 @@ Download an offline version of the CSS Diner game - <https://github.com/flukeout
 
 Parents and students check in at the library lobby. A mentor will sign you in and guide you to the appropriate session room. Students should get a name tag and print their first name on their name tag.
 
-Students can join another session at any time.  Students 7 - 12 who are complete beginners are encouraged to join the Scratch group.  We encourage the parent and student to discuss and decided what session their student attends.  Talk to a mentor for advice on what session your student should attend.
+Students can join another session at any time.  Students 7 - 12 who are complete beginners are encouraged to join the Code Studio group.  We encourage the parent and student to discuss and decided what session their student attends.  Talk to a mentor for advice on what session your student should attend.
 
 ## During the coding session 
 
@@ -83,16 +83,17 @@ Please see our **[Learning Guide](http://www.coderdojohenry.com/learning-guide)*
 
 We have several regular learning areas:
 
-  * Scratch
-  * Web Development with HTML, CSS, and JavaScript
-  * Mobile Development for Android with App Inventor
+  * Drag and Drop programming with Code Studio
+  * Music Programming with Ruby and Sonic Pi
   * Explore Electronics with Arduino
-  * Minecraft modding with JavaScript
+  * Minecraft Modding
  
 You should start on one or more of these tracks so that you'll have good
 questions and ideas for what you'd like to learn more about when you
 visit the dojo in person.
 
+**Web Development session**
+We have temporarily halted our coding session for Web Development with HTML, CSS, and JavaScript.  If you are interested in attending a web development session to learn some of the most sought after jobs skills in the world today... please let one of our mentors William or Rahsun know.
 
 ## Online registraton for sessions
 
@@ -104,7 +105,7 @@ not include parents or guardians. This will allow us to know how many students t
 Due to the high level of student interest, attendees who are not registered
 on [our Meetup.com site](http://meetup.com/CoderDojoMcDonough) may not be allowed to sit in a session room with a mentor. Students who are not on our RSVP list will wait in a waiting area. If the room is full
 to capacity with registered students, students not on the RSVP will be allowed to either move to another dojo session with availability
-or students can sit in another area of the library and work on code learning websites with minimal help from a mentor. Mentors will work to ensure that all students in the library at least have access to a text editor or Scratch and ability to view learning material.  If a session room is not full with registered students when the dojo begins around 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
+or students can sit in another area of the library and work on code learning websites with minimal help from a mentor. Mentors will work to ensure that all students in the library at least have access to a text editor or Code Studio and ability to view learning material.  If a session room is not full with registered students when the dojo begins around 1:30pm, dojo coordinators will begin to allow waiting students to sit in the session room.
 
 Mentors are encouraged to lead groups with no more than 8 students.  Having a limit on the number of students per mentor makes sure that students who register are able to receive adequate attention.
 
