@@ -4,11 +4,11 @@
 
 We have created a zip file to help streamline the ScriptCraft installation process.  CoderDojo students with Windows laptops can use these instructions to install the CraftBukkit server and ScriptCraft.  The zip file currently contains the CraftBukkit server version 1.7.9-R0.2 and the ScriptCraft library dated 4/23/2014. 
 
-1.  [Click here](http://coderdojomcdonough.github.io/assets/scriptcraft.zip) to download a zip file containing the CraftBukkit server and ScriptCraft.  Unzip the file when the download is complete.
+1.  [Click here](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/CanaryModServer.zip) to download a zip file containing the CanaryMod server and ScriptCraft.  Unzip the file when the download is complete.
 
 2.  Move the unzipped folder and create a desktop shortcut.  This step is optional.  Use File Explorer on Windows 8 (or Windows Explorer on Windows 7 and below) to move the unzipped ScriptCraft folder to the C drive of your computer or some other location on your disk.  You can also make a shortcut to the start.bat file on your Desktop so you can easily start the CraftBukkit server in the future.
 
-3.  Start the CraftBukkit server.  Double-click on the file named "start.bat".  A command prompt window should open.  
+3.  Start the CanaryMod server.  Double-click on the file named "start.bat".  A command prompt window should open.  
   * If you see a message "Loading libraries, please wait..." followed by dozens of lines of more text saying things like "Preparing spawn area", the CraftBukkit server is running properly so you can proceed to step the next step.
   * If you see a message "Loading libraries, please wait..." and the forth line says "Failed to load eula.txt", press any key to close the CraftBukkit command window.  Double-click on the file "eula.txt" and change the last line to "eula=true".  Safe and close the file.  Double-click on "start.bat" again to run the CraftBukkit server.
   * If you see the message "'java' is not recognized as an internal or external command", install Java from the http://www.java.com website.  If you have already performed that step and you are still seeing this error, Java will need to be added to your computer's path.  Adding Java to your computer's path is technically challenging... mentors at one of our coding sessions will be happy to help you with this task.  Instructons for adding Java to your classpath may be found here: http://www.java.com/en/download/help/path.xml
