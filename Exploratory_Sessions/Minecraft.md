@@ -22,27 +22,29 @@ We strongly recommend that students in our Minecraft session learn JavaScript fu
 
 ## Installation
 
-Please make your best attempt to install the CraftBukkit server on your laptop before attending your first session.  There are mentors available to help if you're unable to get things running, but another mentor will be guiding students through scripting in Minecraft even if  some students are not able to get the CraftBukkit server running and connected to Minecraft.
-
 [Click here](Minecraft_ScriptCraft_Installation.md) to view our streamlined installation instructions for Windows users.  These steps were created using the installation instructions found in the Young Person's Guide link below, but they save parents or students from having to download separate jar files and create their own start.bat file.
 
-Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation) - This guide contains details on how to start using JavaScript with Minecraft. We’ve tested Minecraft version 1.7.10 along with CraftBukkit version 1.7.10-R0.2. 
+Full instructions for installing and configuring ScriptCraft can be found in the [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation) - This guide contains details on how to start using JavaScript with Minecraft.
 
+<!--
 [Click here](Minecraft_ScriptCraft_Installation.md#run-craftbukkit-without-an-internet-connection) for instructions on running the CraftBukkit server without an internet connection.
 
 If you see the error message "You don't have scriptcraft.evaluate permission” when using ScriptCraft in Minecraft, see step 4 in our streamlined [installation instructions](Minecraft_ScriptCraft_Installation.md).
+-->
 
 ## Documentation links
 
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
+
+[CanaryMod and ScriptCraft Quick-Start](http://walterhiggins.net/blog/CanaryMod-and-ScriptCraft-Quick-Start) - recent blog post by ScriptCraft creator Walter Higgins about CanaryMod and ScriptCraft.
 
 [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation)
 
 ModderDojo Athenry projects  
 http://cdathenry.wordpress.com/category/modderdojo/page/3/
 
-Bukkit API reference docs  
-http://jd.bukkit.org/dev/apidocs/
+CanaryMod API reference docs  
+https://ci.visualillusionsent.net/job/CanaryLib/javadoc/
 
 Minecraft Data Values  
 http://minecraft.gamepedia.com/Data_values
