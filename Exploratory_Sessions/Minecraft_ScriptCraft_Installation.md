@@ -21,18 +21,3 @@ Once you have successfully installed ScriptCraft, we recommend that you continue
 (https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation).
 
 
-##Run CraftBukkit without an internet connection (Outdated!)
-The CraftBukkit server will attempt to authenticate users using your internet connection.  In order to start the CraftBukkit server properly when you are not connected to the internet, stop the CraftBukkit server and change the first line of the start.bat file from:  
-java -Xmx1024M -jar craftbukkit.jar -o true  
-to...  
-java -Xmx1024M -jar craftbukkit.jar -o false
-
-The "-o" parameter will cause the server to start in online mode if set to true and offline mode if set to false.  This value overrides the "online-mode" value in the server.properties file.  Instead of using the -o paremeter in the start.bat file... you could remove the -o parameter from the start.bat file and edit the server.properties file and change the online-mode setting to false to enable offline mode.
-
-Please note that you will run into problems if you start the CraftBukkit server or Minecraft with an internet connection and then you go offline.  So if you need to run Minecraft without an internet connection, disconnect from the internet and then start the CraftBukkit server and then start Minecraft.
-
-You should not run the CraftBukkit server in offline mode if you have a working internet connection.  If you have a workign internet connection you should set the -o startup parameter in the start.bat file to true.  When you're running in offline mode you'll see warnings in the CraftBukkit command window saying the following:  
-> **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!  
-> The server will make no attempt to authenticate usernames. Beware.  
-> While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-
