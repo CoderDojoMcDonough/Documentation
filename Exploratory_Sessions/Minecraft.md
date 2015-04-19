@@ -57,17 +57,23 @@ https://github.com/CoderDojoMcDonough/MinecraftScripts
 
 ## Set time and storm
 
-I find it helpful to switch the time of day when it gets dark or turn off a storm...
+I find these commands helpful to permenantly switch the time of day to daylight and turn off rain.  Type these commands into the CanaryMod command window:
+```
+time set 2000
+gamerule doDaylightCycle false
+weather clear
+```
 
-change time of day to daytime:  
-self.location.world.setTime(6000);  
-https://github.com/walterhiggins/ScriptCraft/blob/master/docs/API-Reference.md#example-create-a-sign-which-changes-the-time-of-day
+These commands will:
+1) Change time of day to daytime
+2) Turn off day/night cycle
+3) Make the weather clear, turn off rain:  
 
-set storm:  
-server.worlds.get(0).setStorm(false);  
-https://github.com/walterhiggins/ScriptCraft/blob/master/docs/API-Reference.md#example-5
 
 ## Ideas for mods
+
+Use ScriptCraft to reverse engineer the "Build a Zoo" and "Magic Wands" badges on the LearnToMod platform.
+http://mod.learntomod.com/book/home
 
 Conway's Game of Life  
 http://en.wikipedia.org/wiki/Conway's_Game_of_Life
