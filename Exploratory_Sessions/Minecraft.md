@@ -65,9 +65,10 @@ weather clear
 ```
 
 These commands will:
-1) Change time of day to daytime
-2) Turn off day/night cycle
-3) Make the weather clear, turn off rain:  
+
+1. Change time of day to daytime
+2. Turn off day/night cycle
+3. Make the weather clear, turn off rain
 
 
 ## Ideas for mods
