@@ -35,7 +35,7 @@ Library](https://www.google.com/maps/place/1001+Florence+Mcgarity+Blvd/)
 
   * Bring a laptop for your child. If you do not have access to a laptop
     please email info@coderdojohenry.com and we will try to make one
-available for you.  Thanks to the [Codestarter](https://codestarter.org) program, your child is able to receive their own laptop computer if your child wants to learn to code at CoderDojo McDonough and you cannot afford a laptop for your child.  Come to one of our coding sessions and ask William or email <info@coderdojohenry.com>.
+available for you.  Thanks to the [Codestarter](https://codestarter.org) program, your child is able to receive their own laptop computer if your child wants to learn to code at CoderDojo McDonough and you cannot afford a laptop for your child.  Come to one of our coding sessions and ask William about enrolling in the Codestarter program or email <info@coderdojohenry.com>.
   * We'll have water, pretzels, and animal crackers.  If you'd
     like to bring some other snacks to share, that would be great.  
   
