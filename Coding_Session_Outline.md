@@ -67,28 +67,24 @@ Mentors will encourage students to work together in pairs or small teams. Both s
 **Learning resources used during coding sessions or in between sessions**  
 Please see our **[Learning Guide](http://www.coderdojohenry.com/learning-guide)** for resources used during the coding sessions. You should also study and practice with these great free resources on your own time.
 
-We have several regular learning areas:
-
-  * Drag and Drop programming with Code Studio
-  * Music Programming with Ruby and Sonic Pi
-  * Explore Electronics with Arduino
-  * Minecraft Modding
- 
-You should start on one or more of these tracks so that you'll have good
-questions and ideas for what you'd like to learn more about when you
-visit the dojo in person.
+## Current Coding Sessions:
 
 **Code Studio**  
  Code Studio is a new drag and drop learning tool from Code.org that offers a more guided step-by-step way to learn to code.  Feel free to work through the "Hour of Code" and "Beginner" courses at https://learn.code.org before attending the sessions.  Mentors at our sessions can help you through any difficult parts or help explain concepts covered in Code Studio.
 
-**Explore Electronics with Arduino**  
-Only a laptop is required for our Arduiono session.  We have 6 Arduino kits available for our Explore Electronics with Arduino session. 
-
-**Music Programming with Ruby and Sonic Pi**  
-Students wishing to participate in this session should bring a pair of headphones to make experimentation easier.   Only a laptop is required for this session... we will not be using the actual Raspberry Pi devices.  Learn more about Sonic Pi at http://sonic-pi.net. Interested students are encouraged to learn about Ruby using either the quick 15 minute introduction at http://tryruby.org/ or a more full Ruby tutorial such as http://codecademy.com/tracks/ruby
+**Code Studio**  
+Students who want to participate in our Game Development session will need a Windows, Mac, or Linux laptop.  See our [Game Development Resources](Exploratory_Sessions/GameDev.md) page for more information.
 
 **Minecraft Modding**  
-Students who want to participate in our Minecraft Modding session should have a Minecraft account and Minecraft installed on their laptop.  Library provided laptops cannot be used for the Minecraft Modding session. 
+Students who want to participate in our Minecraft Modding session will need a Windows, Mac, or Linux laptop.  See our [MinecraftModding Resources](Exploratory_Sessions/Minecraft.md) page for more information.
+
+## The following sessions are not currently active:
+
+**Music Programming with Ruby and Sonic Pi - on hold**  
+Students wishing to participate in this session should bring a pair of headphones to make experimentation easier.   Only a laptop is required for this session... we will not be using the actual Raspberry Pi devices.  Learn more about Sonic Pi at http://sonic-pi.net. Interested students are encouraged to learn about Ruby using either the quick 15 minute introduction at http://tryruby.org/ or a more full Ruby tutorial such as http://codecademy.com/tracks/ruby
+
+**Explore Electronics with Arduino - on hold**  
+Only a laptop is required for our Arduiono session.  We have 6 Arduino kits available for our Explore Electronics with Arduino session. 
 
 **Web Development - on hold**  
 We have temporarily halted our coding session for Web Development with HTML, CSS, and JavaScript.  If you are interested in attending a web development session to learn some of the most sought after jobs skills in the world today... please let one of our mentors William or Rahsun know.
