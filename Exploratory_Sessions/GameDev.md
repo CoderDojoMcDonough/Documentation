@@ -5,3 +5,7 @@ The Godot game development platform uses a custom scripting language named GDScr
 Resources:
 * [Godot game engine](http://www.godotengine.org/)
     We recommend students using a Windows laptop download the godot_win32.exe and godot_demos.zip files.
+
+Requirements:
+Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
+Students will need to have a Windows, Mac, or Linux laptop.
