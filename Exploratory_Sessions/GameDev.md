@@ -6,6 +6,8 @@ Resources:
 * [Godot game engine](http://www.godotengine.org/)
     We recommend students using a Windows laptop download the godot_win32.exe and godot_demos.zip files.
 
+* [Game Development Learning Guide](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf)
+
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
 Students will need to have a Windows, Mac, or Linux laptop.
