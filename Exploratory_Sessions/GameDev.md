@@ -11,3 +11,33 @@ Resources:
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
 Students will need to have a Windows, Mac, or Linux laptop.
+
+## The Format
+
+### Learn
+Objectives:
+
+- Learn the basics of computer programming using Python
+	- 	Variables
+	-  Functions
+	-  Conditionals
+	-  Loops
+	-  Classes
+	-  Modules
+	-  Programming Jargon
+
+### Play
+Objectives:
+
+- Get introduced to the game development world
+	- Preview games
+	- Game forums 	
+- Get resources for game development
+	- IDEs
+	- Game Engines
+	- 2D and 3D art applications 		
+
+### Create
+Objectives:
+
+- Create a game using the Godot game engine.
