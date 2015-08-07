@@ -14,7 +14,7 @@ Students will need to have a Windows, Mac, or Linux laptop.
 
 ## The Format
 
-### Learn
+### Learn (1hr)
 Objectives:
 
 - Learn the basics of computer programming using Python
@@ -26,7 +26,7 @@ Objectives:
 	-  Modules
 	-  Programming Jargon
 
-### Play
+### Play (30min)
 Objectives:
 
 - Get introduced to the game development world
@@ -37,7 +37,7 @@ Objectives:
 	- Game Engines
 	- 2D and 3D art applications 		
 
-### Create
+### Create (2hrs)
 Objectives:
 
 - Create a game using the Godot game engine.
