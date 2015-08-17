@@ -8,6 +8,8 @@ Resources:
 
 * [Game Development Learning Guide](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf)
 
+* [Additonal Game Development Resource Links](Game%20Development%20Resources.md)
+
 Requirements:
 Godot is a free and open source game engine, so there are not costs assoicated with using Godot.  
 Students will need to have a Windows, Mac, or Linux laptop.
