@@ -11,6 +11,8 @@
 
 ## Art tools (2d & 3d)
 - 2D
+	- [Gimp](http://www.gimp.org)
+	- [Inkscape](https://inkscape.org/en/)
 	- [Pixelmator](http://www.pixelmator.com) $
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) $
 	- [Procreate](http://procreate.si) $ 
