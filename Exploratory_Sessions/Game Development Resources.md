@@ -37,7 +37,7 @@
 - [Html](https://www.youtube.com/watch?v=Ggh_y-33Eso&index=7&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY), [CSS](https://www.youtube.com/watch?v=I-rTKuEhrCM&index=8&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY), [JavaScript](https://www.youtube.com/watch?v=_cLvpJY2deo&index=6&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) 
 - Libraries
 
-## Game Rsources
+## Game Resources
 - [Ludum Dare](http://ludumdare.com/compo/)
 - [Godot](http://www.godotengine.org/wp/)
 - [Apple App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
@@ -59,4 +59,4 @@
 - [CG Society](http://www.cgsociety.org)
 - [Twitter](https://twitter.com)
 - [Itunes U](http://www.apple.com/education/ipad/itunes-u/)
-- [FOSS]()
+- [FOSS](http://www.fosshub.com)
