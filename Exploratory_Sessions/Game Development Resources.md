@@ -1,3 +1,16 @@
+<p style="
+color:;
+text-align:center;
+font-size:">
+Tuesday  Sep 1, 2015
+</p>
+<p style="
+color:;
+text-align:center;
+font-size:">
+by: The Tutorial Doctor
+</p>
+
 # Game Development  Resources
 
 ## TOOLS
@@ -8,6 +21,8 @@
 	- [Atom](https://atom.io)
 	- [Brackets](http://brackets.io)
 	- [Lightable](http://lighttable.com)
+	- [Pythonista](http://omz-software.com/pythonista/)(IOS)
+	- [Editorial](http://omz-software.com/editorial/)(IOS)
 
 ## Art tools (2d & 3d)
 - 2D
