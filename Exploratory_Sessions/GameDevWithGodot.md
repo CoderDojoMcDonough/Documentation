@@ -6,7 +6,8 @@ Resources:
 * [Godot game engine](http://www.godotengine.org/)
     We recommend students using a Windows laptop download the godot_win32.exe and godot_demos.zip files [here](http://www.godotengine.org/projects/godot-engine/documents)
 
-* [Game Development Learning Guide](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf)
+* [Introduction to Programming](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf)
+* [Game Development Learning Guide](https://github.com/TutorialDoctor/Software_Development)
 
 * [Additonal Game Development Resource Links](Game%20Development%20Resources.md)
 
