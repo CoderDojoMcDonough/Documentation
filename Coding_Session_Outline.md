@@ -64,23 +64,26 @@ Students will use online learning resources to learn at their own pace with help
 Mentors will encourage students to work together in pairs or small teams. Both students will be writing coding individually while asking each other questions and tackling problems together.  Intermediate students can also practice pair programming techniques.
 
 **Learning resources used during coding sessions or in between sessions**  
-Please see our **[Learning Guide](http://www.coderdojohenry.com/learning-guide)** for resources used during the coding sessions. You should also study and practice with these great free resources on your own time.
+Please see our **[Learning Resources](http://www.coderdojohenry.com/learning-guide)** for resources used during the coding sessions. You should also study and practice with these great free resources on your own time.
 
 ## Current Coding Sessions:
 
-**Code Studio**  
- Code Studio is a new drag and drop learning tool from Code.org that offers a more guided step-by-step way to learn to code.  Feel free to work through the "Hour of Code" and "Beginner" courses at https://learn.code.org before attending the sessions.  Mentors at our sessions can help you through any difficult parts or help explain concepts covered in Code Studio.
+**Game Development**  
+Students who want to participate in our Game Development session will need a Windows, Mac, or Linux laptop.  See our [Game Development Resources](Exploratory_Sessions/GameDev.md) page for more information.
+
+**Music Programming with Ruby and Sonic Pi**  
+Students wishing to participate in this session should bring a pair of headphones to make experimentation easier.   Only a laptop is required for this session... we will not be using the actual Raspberry Pi devices.  Learn more about Sonic Pi at http://sonic-pi.net. Interested students are encouraged to learn about Ruby using either the quick 15 minute introduction at http://tryruby.org/ or a more full Ruby tutorial such as http://codecademy.com/tracks/ruby
+
+**Lego Mindstorm**  
+CoderDojo McDonough has access to two Lego Mindstorm EV3 kits!  Mentors will help students build robots and control them using drag and drop, ruby or python programming tools.  Students may need to be placed on a waiting list to attend the Mindstorm session. 
 
 **Code Studio**  
-Students who want to participate in our Game Development session will need a Windows, Mac, or Linux laptop.  See our [Game Development Resources](Exploratory_Sessions/GameDev.md) page for more information.
+ Code Studio is a new drag and drop learning tool from Code.org that offers a more guided step-by-step way to learn to code.  Feel free to work through the "Hour of Code" and "Beginner" courses at https://learn.code.org before attending the sessions.  Mentors at our sessions can help you through any difficult parts or help explain concepts covered in Code Studio.
 
 **Minecraft Modding**  
 Students who want to participate in our Minecraft Modding session will need a Windows, Mac, or Linux laptop.  See our [MinecraftModding Resources](Exploratory_Sessions/Minecraft.md) page for more information.
 
 ## The following sessions are not currently active:
-
-**Music Programming with Ruby and Sonic Pi - on hold**  
-Students wishing to participate in this session should bring a pair of headphones to make experimentation easier.   Only a laptop is required for this session... we will not be using the actual Raspberry Pi devices.  Learn more about Sonic Pi at http://sonic-pi.net. Interested students are encouraged to learn about Ruby using either the quick 15 minute introduction at http://tryruby.org/ or a more full Ruby tutorial such as http://codecademy.com/tracks/ruby
 
 **Explore Electronics with Arduino - on hold**  
 Only a laptop is required for our Arduiono session.  We have 6 Arduino kits available for our Explore Electronics with Arduino session. 
