@@ -44,11 +44,10 @@ available for you.
 
 See our [Web Browsers](web_browsers.md) page for suggestions regarding the web browser used during coding sessions.
 
-Please create an account on either the [Codecademy](http://www.codecademy.com) or [Code Studio](https://learn.code.org) websites on behalf of your children. Your child will need to use the same login information for each CoderDojo session.  Children who would like to learn programming concepts with minimal typing involved should be registered for Code Studio.  Other students should be registered for Codecademy.
+First time students between 7 and 11 who would like to learn programming concepts with minimal typing involved should be registered for Code Studio.  Please create an account on the [Code Studio](https://learn.code.org) website on behalf of your children. Your child will need to use the same login information for each CoderDojo session.
 
-### Downloadable resources  
-In case there are difficulties connecting to the internet at the
-library, we will have 4 USB thumb drives available with the following resources for Mac and PC laptops.
+Older students should learn to type!  Learning to type properly is one of the first things you can do to become a proficient coder.  Sites such as [typing.com](http://www.typing.com) and [keybr.com](http://www.keybr.com) are great free online resources that teach typing skills.
+
 
 
 ## When you arrive
