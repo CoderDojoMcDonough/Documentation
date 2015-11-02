@@ -4,7 +4,7 @@ The Godot game development platform uses a custom scripting language named GDScr
 
 Resources:
 * [Godot game engine](http://www.godotengine.org/)
-    We recommend students using a Windows laptop download the godot_win32.exe and godot_demos.zip files [here](http://www.godotengine.org/projects/godot-engine/documents)
+    We recommend students using a Windows laptop download godot_win32.exe (1.1 stable version) and godot_demos.zip files [here](http://www.godotengine.org/projects/godot-engine/documents)
 
 * [Introduction to Programming](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/coderdojo_learn.pdf) (PDF)
 * [Game Development Learning Guide](https://github.com/TutorialDoctor/Software_Development)
