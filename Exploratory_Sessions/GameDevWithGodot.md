@@ -19,7 +19,7 @@ Students will need to have a Windows, Mac, or Linux laptop.
 
 Before each session we will have the students download a demo project made with Godot. At the beginning of each section we will overview key programming concepts. During the session we will look at and modify the demo project, adding or removing features.
 
-The Demo for this week is:
+The Demo for the week of 11/15:
 
 - [Parallax Platformer](https://www.dropbox.com/sh/r0yugadsh7xf0z6/AACs7mcFz6ehRCK9AnulygEQa?dl=0)
 
