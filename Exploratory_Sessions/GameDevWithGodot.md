@@ -17,8 +17,8 @@ Students will need to have a Windows, Mac, or Linux laptop.
 
 ## The Format
 
-~~
-### Learn (1hr)
+
+~~### Learn (1hr)
 Objectives:
 
 - Learn the basics of computer programming using Python
