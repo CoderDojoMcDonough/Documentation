@@ -17,6 +17,10 @@ Students will need to have a Windows, Mac, or Linux laptop.
 
 ## The Format
 
+Before each session we will have the students download a demo project made with Godot. At the beginning of each section we will overview key programming concepts. During the session we will look at and modify the demo project, adding or removing features.
+
+All demos can be downloaded directly using [this link](https://github.com/TutorialDoctor/TD-Godot-Games/archive/master.zip)
+
 
 <strike>### Learn (1hr)
 Objectives:
