@@ -18,7 +18,7 @@ Students will need to have a Windows, Mac, or Linux laptop.
 ## The Format
 
 
-~~### Learn (1hr)
+<strike>### Learn (1hr)
 Objectives:
 
 - Learn the basics of computer programming using Python
@@ -45,4 +45,4 @@ Objectives:
 Objectives:
 
 - Create a game using the Godot game engine.
-~~
+</strike>
