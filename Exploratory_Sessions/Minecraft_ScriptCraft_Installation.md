@@ -12,7 +12,7 @@ We have created a zip file to help streamline the ScriptCraft installation proce
 
 4.  In the Spigot command window type op {your_username} and hit enter, replacing {your_username} with your own minecraft username.  This will give you operator access which is necessary to run ScriptCraft.  The Spigot server keeps track of operators in a text file, so you do not need to perform this step every time you start the Spigot server.
 
-5.  Follow the ["First Steps" section on the Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#first-steps) to connect the CraftBukkit server you just finished setting up with your Minecraft game. 
+5.  Follow the ["First Steps" section on the Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#first-steps) to connect the Spigot server you just finished setting up with your Minecraft game. 
 
 
 
