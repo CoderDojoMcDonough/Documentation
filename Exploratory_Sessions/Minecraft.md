@@ -64,7 +64,6 @@ I find these commands helpful to permenantly switch the time of day to daylight 
 ```
 time set 2000
 gamerule doDaylightCycle false
-weather clear
 ```
 
 These commands will:
