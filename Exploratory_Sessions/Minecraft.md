@@ -62,7 +62,6 @@ I find these commands helpful to permenantly switch the time of day to daylight 
 time set 2000
 gamerule doDaylightCycle false
 weather clear
-gamemode 1
 ```
 
 These commands will:
@@ -70,7 +69,6 @@ These commands will:
 1. Change time of day to daytime
 2. Turn off day/night cycle
 3. Make the weather clear, turn off rain
-4. Set game mode to creative
 
 
 ## Ideas for mods
