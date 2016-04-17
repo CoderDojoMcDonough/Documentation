@@ -43,7 +43,7 @@ If you see the error message "You don't have scriptcraft.evaluate permission” 
 ModderDojo Athenry projects  
 https://cdathenry.wordpress.com/category/modderdojo/
 
-Article "Get your kids coding with Minecraft"
+Article "Get your kids coding with Minecraft"  
 https://developer.atlassian.com/blog/2016/02/get-your-kids-coding-with-minecraft/
 
 CanaryMod API reference docs  
