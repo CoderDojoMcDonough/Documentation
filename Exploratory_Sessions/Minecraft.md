@@ -36,7 +36,7 @@ If you see the error message "You don't have scriptcraft.evaluate permission” 
 
 [ScriptCraftJS.org](http://www.ScriptCraftJS.org) - Documentation links for ScriptCraft
 
-[CanaryMod and ScriptCraft Quick-Start](http://walterhiggins.net/blog/CanaryMod-and-ScriptCraft-Quick-Start) - recent blog post by ScriptCraft creator Walter Higgins about CanaryMod and ScriptCraft.
+[CanaryMod and ScriptCraft Quick-Start](http://walterhiggins.net/blog/CanaryMod-and-ScriptCraft-Quick-Start) - blog post by ScriptCraft creator Walter Higgins about CanaryMod and ScriptCraft.
 
 [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#installation)
 
