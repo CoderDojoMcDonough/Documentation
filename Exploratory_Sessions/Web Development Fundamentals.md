@@ -1,5 +1,3 @@
-# Read This
-
 Create a personal blog with HTML, CSS and Javascript
 
 Blog tutorial in the works!
