@@ -7,7 +7,7 @@ Blog tutorial in the works!
 3. Click **Live Preview** to preview `index.html`
 
 **Text Editor**  
-We recommend using the Atom text editor during our sessions: [Brackets](http://brackets.io)
+We recommend using the [Brackets](http://brackets.io) text editor during our sessions
 
 
 ## Web Development Resources
