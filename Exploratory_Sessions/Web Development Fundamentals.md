@@ -7,7 +7,7 @@ We recommend using the [Brackets](http://brackets.io) text editor during our ses
 
 1. Create a folder on your computer called `Blog`.
 2. Create three files in the folder `index.html', `style.css` and `script.js`.
-3. Copy and paste the HTML from [HTML](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
+3. Copy and paste the HTML from [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
 [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/style.css) into `style.css`
 
 
