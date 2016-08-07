@@ -1,13 +1,11 @@
 Create a personal blog with HTML, CSS and Javascript
 
-Blog tutorial in the works!
-
-1. Download [Brackets](http://brackets.io)
-2. Drag the **Blog** folder into file panel.
-3. Click **Live Preview** to preview `index.html`
-
 **Text Editor**  
 We recommend using the [Brackets](http://brackets.io) text editor during our sessions
+
+**Setup Instructions**
+1. Drag the **Blog** folder into file panel.
+2. Click **Live Preview** to preview `index.html`
 
 
 ## Web Development Resources
