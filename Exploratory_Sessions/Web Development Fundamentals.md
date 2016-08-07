@@ -11,4 +11,5 @@ We recommend using the Atom text editor during our sessions: [Brackets](http://b
 
 
 ## Web Development Resources
-Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development and the Ruby programming language:  
+Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
+HTML & CSS: <https://www.codecademy.com/learn/web> 
