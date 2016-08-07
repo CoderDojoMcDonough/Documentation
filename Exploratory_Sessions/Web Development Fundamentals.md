@@ -3,7 +3,7 @@ Create a personal blog with HTML, CSS and Javascript
 **Text Editor**  
 ![](http://corlan.org/wp-content/uploads/2013/06/brackets.png)
 
-We recommend using the [Brackets](http://brackets.io) text editor during our sessions
+We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](http://jsbin.com/nurohudabe/edit?html,css,output)
 
 **Setup Instructions**
 
