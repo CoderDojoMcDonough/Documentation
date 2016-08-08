@@ -12,7 +12,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 3. Copy and paste the HTML from [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
 [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/style.css) into `style.css`
 
-** Try to:
+**Try to:**
 
 1. Change the image to an image of your own
 2. Change the title's name to your name.
