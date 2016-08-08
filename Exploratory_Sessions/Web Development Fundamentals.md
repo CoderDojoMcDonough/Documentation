@@ -21,7 +21,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 
 **Edit a Webpage's css**
 
-1. Right-click inside of any webpage and click `Inspect Element` to inspect the HTML and CSS of that webpage. You can target an item on a webpage by clicking the **target icon**. Try to adjust the color of some text on the page, or the size of an image on the page.
+1. Right-click inside of [any webpage](https://minecraft.net/en/) and click `Inspect Element` to inspect the HTML and CSS of that webpage. You can target an item on a webpage by clicking the **target icon**. Try to adjust the color of some text on the page, or the size of an image on the page.
 
 ## Web Development Resources
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
