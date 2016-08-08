@@ -14,7 +14,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 
 **Try to:**
 
-1. Change the image to an image of your own
+1. Change the image to an image of your own. Do a [Googe Images](https://images.google.com) search, right-click the image you want to use, and click `Copy Image Address`.
 2. Change the title's name to your name.
 3. Adjust the size of the image
 4. Change the `<h1>` tag color to a hex value from http://www.color-hex.com. Change it to an `rgb()` value.
