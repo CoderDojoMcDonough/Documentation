@@ -12,6 +12,11 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 3. Copy and paste the HTML from [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
 [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/style.css) into `style.css`
 
+** Try to:
+1. Change the image to an image of your own
+2. Change the title's name to your name.
+3. Adjust the size of the image
+4. Change the title color to a hex value from color-hex.com
 
 ## Web Development Resources
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
