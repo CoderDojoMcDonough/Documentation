@@ -17,7 +17,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 1. Change the image to an image of your own
 2. Change the title's name to your name.
 3. Adjust the size of the image
-4. Change the `<h1>` tag color to a hex value from http://www.color-hex.com
+4. Change the `<h1>` tag color to a hex value from http://www.color-hex.com. Change it to an `rgb()` value.
 
 ## Web Development Resources
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
