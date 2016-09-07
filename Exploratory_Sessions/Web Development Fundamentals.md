@@ -31,6 +31,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
 HTML & CSS: <https://www.codecademy.com/learn/web> 
 
+The following code needs to pasted into a head tag before the examples will appear correctly:
 ```
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
