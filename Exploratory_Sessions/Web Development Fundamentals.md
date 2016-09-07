@@ -5,7 +5,7 @@ Create a personal blog with HTML, CSS and Javascript
 
 We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](http://jsbin.com/nurohudabe/edit?html,css,output)
 
-**Beginners: Setup Instructions**
+**Beginners: Create a Personal Blog Page**
 
 1. Create a folder on your computer called `Blog`.
 2. Create three files in the folder `index.html`, `style.css` and `script.js`.
