@@ -23,7 +23,7 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 
 1. Right-click inside of [any webpage](https://minecraft.net/en/) and click `Inspect Element` to inspect the HTML and CSS of that webpage. You can target an item on a webpage by clicking the **target icon**. Try to adjust the color of some text on the page, or the size of an image on the page.
 
-**Advanced: Tweak a few BootSnip snippets**
+**Advanced: Tweak a few BootSnipp snippets**
 
 1. Copy & Paste examples from [Bootsnip.com](http://bootsnipp.com) into JSbin and edit them.
 
