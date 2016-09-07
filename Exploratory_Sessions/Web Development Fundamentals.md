@@ -5,12 +5,13 @@ Create a personal blog with HTML, CSS and Javascript
 
 We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](http://jsbin.com/nurohudabe/edit?html,css,output)
 
-**Setup Instructions**
+**Beginners: Setup Instructions**
 
 1. Create a folder on your computer called `Blog`.
 2. Create three files in the folder `index.html`, `style.css` and `script.js`.
 3. Copy and paste the HTML from [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
 [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/style.css) into `style.css`
+4. Alternately you can paste the contents of these files into Jsbin.
 
 **Beginners: Edit a website**
 
@@ -19,9 +20,11 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 3. Adjust the size of the image
 4. Change the `<h1>` tag color to a hex value from http://www.color-hex.com. Change it to an `rgb()` value.
 
+
 **Intermediate: Edit another webpage's CSS**
 
 1. Right-click inside of [any webpage](https://minecraft.net/en/) and click `Inspect Element` to inspect the HTML and CSS of that webpage. You can target an item on a webpage by clicking the **target icon**. Try to adjust the color of some text on the page, or the size of an image on the page.
+
 
 **Advanced: Tweak a few BootSnipp snippets**
 
