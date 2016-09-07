@@ -12,13 +12,10 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 3. Copy and paste the HTML from [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/index.html) into `index.html` and the CSS from 
 [here](https://github.com/TutorialDoctor/Programming-Language-Tutorials/blob/master/Web%20Development/projects/Blog/style.css) into `style.css`
 4. Alternately you can paste the contents of these files into Jsbin.
-
-**Beginners: Edit a website**
-
-1. Change the image to an image of your own. Do a [Googe Images](https://images.google.com) search, right-click the image you want to use, and click `Copy Link Address`(in Google Chrome). In **Safari** it is `Copy Image Address` and in **Firefox** it is `Copy Link Location`.
-2. Change the title's name to your name.
-3. Adjust the size of the image
-4. Change the `<h1>` tag color to a hex value from http://www.color-hex.com. Change it to an `rgb()` value.
+5. Change the image to an image of your own. Do a [Googe Images](https://images.google.com) search, right-click the image you want to use, and click `Copy Link Address`(in Google Chrome). In **Safari** it is `Copy Image Address` and in **Firefox** it is `Copy Link Location`.
+6. Change the title's name to your name.
+7. Adjust the size of the image
+8. Change the `<h1>` tag color to a hex value from http://www.color-hex.com. Change it to an `rgb()` value.
 
 
 **Intermediate: Edit another webpage's CSS**
