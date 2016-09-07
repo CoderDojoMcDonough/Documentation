@@ -27,10 +27,6 @@ We recommend using the [Brackets](http://brackets.io) text editor or [JSbin](htt
 
 1. Copy & Paste examples from [Bootsnip.com](http://bootsnipp.com) into JSbin and edit them.
 
-## Web Development Resources
-Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
-HTML & CSS: <https://www.codecademy.com/learn/web> 
-
 The following code needs to pasted into a head tag before the examples will appear correctly:
 ```
 <!-- Latest compiled and minified CSS -->
@@ -42,3 +38,7 @@ The following code needs to pasted into a head tag before the examples will appe
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 ```
+
+## Web Development Resources
+Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
+HTML & CSS: <https://www.codecademy.com/learn/web> 
