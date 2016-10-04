@@ -39,6 +39,9 @@ The following code needs to pasted into a head tag before the examples will appe
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 ```
 
+**Fun Stuff**
+[Code a game](https://www.codingame.com/training)
+
 ## Web Development Resources
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
 HTML & CSS: <https://www.codecademy.com/learn/web> 
