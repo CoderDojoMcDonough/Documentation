@@ -45,3 +45,7 @@ The following code needs to pasted into a head tag before the examples will appe
 ## Web Development Resources
 Students who are interested in web development and are new to programming are encouraged to use Codecademy's courses on web development:
 HTML & CSS: <https://www.codecademy.com/learn/web> 
+
+## Code a Website:
+
+https://github.com/TutorialDoctor/Programming-Language-Tutorials/tree/master/Web%20Development/projects/The%20HTML%20Coder
