@@ -48,6 +48,7 @@ First time students between 7 and 11 who would like to learn programming concept
 
 Older students should learn to type!  Learning to type properly is one of the first things you can do to become a proficient coder.  Sites such as [typing.com](http://www.typing.com) and [keybr.com](http://www.keybr.com) are great free online resources that teach typing skills.
 
+Students interested in using the Code Kingdoms Minecraft modding platform must have purchased Minecraft for Windows or Mac and have Minecraft installed on their laptop.  Tablet, phone, XBox, or other versions of Minecraft are not supported.  We will be using the LearnToMod system for students who do not have Minecraft installed on their laptop but still want to learn about coding by modding Minecraft.
 
 
 ## When you arrive
