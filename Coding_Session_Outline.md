@@ -73,10 +73,10 @@ View the latest event posted on our [Meetup site](http://www.meetup.com/CoderDoj
 
 ## Online registraton for sessions
 
-CoderDojo McDonough uses Meetup.com's RSVP system to reserve spaces for students at each session. Visit our website and click the "RSVP for a session" link to reserve your student's spot for a session.  You will need to RSVP separately for all sessions you want your student to attend.
-
+No signup is required to attend our coding sessions, but we encourage parents and guardians to RSVP on our Meetup site so we know how many students to expect:  http://www.meetup.com/CoderDojoMcDonough/  
 Parents should only RSVP for the number of students participating and do
-not include parents or guardians. This will allow us to know how many students to allow based on our number of mentors.
+not include parents or guardians. This will allow us to know how many students will be in attendance.
+
 
 <!-- Due to the high level of student interest, attendees who are not registered
 on [our Meetup.com site](http://meetup.com/CoderDojoMcDonough) may not be allowed to sit in a session room with a mentor. Students who are not on our RSVP list will wait in a waiting area. If the room is full
