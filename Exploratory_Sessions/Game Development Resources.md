@@ -75,6 +75,7 @@ by: The Tutorial Doctor
 - [Platforms]
 
 ## Game Art Resources
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Open Game Art](http://opengameart.org)
 - [TF3DM](http://tf3dm.com)
 
